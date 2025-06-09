@@ -1,7 +1,7 @@
 ## Profile 👤👑
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src=https://readme-typing-svg.herokuapp.com/?lines=GalaxLB;%20I%27m+GalaxLB!&center=true&size=40">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=GalaxLB;%20I'm+GalaxLB!&center=true&size=40&color=800080">
   </a>
 </h1>                                                                         
 <br>                                                                              
