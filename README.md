@@ -6,15 +6,16 @@
 </h1>                                                                         
 <br>                                                                              
 <p align="center">
-</br>👑Owner of <a href="https://discord.gg/tejYFePtaB">GalaxDev Community</a>.
-
+<h3></br>👑Owner of <a href="https://discord.gg/tejYFePtaB">GalaxDev Community</a>.  </h3>
+<p>
 <br>
  <a href="https://discord.gg/tejYFePtaB">
  <img alt="GalaxDev Community Discord" src="https://discordapp.com/api/guilds/996842633416683702/widget.png">
 </a>
+</p>
 </br>
+<h3>🧠Sistemas</h3> 
 
->
 >![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
   <h3>💻 Software and Tools</h3>
